@@ -1,0 +1,9 @@
+# IDE generated files
+.idea/
+target/
+output/
+bin/
+*.iml
+
+# Test plugins files
+server/

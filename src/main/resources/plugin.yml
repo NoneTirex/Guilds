@@ -1,0 +1,8 @@
+main: pl.edu.tirex.guilds.BukkitGuild
+name: Guilds
+version: 0.1
+author: TiREX
+
+commands:
+  guild:
+    aliases: [guilds, g, gildia, gildie, clan, klan, clans, klany]
